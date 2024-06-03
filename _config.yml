@@ -1,9 +1,7 @@
 domain: unixetc.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://unixetc.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /unixetc.github.io/      # place folder name if the site is served in a subfolder
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
 
 title: unixetc`s github page
 description: welcome to unixetc.github.io
